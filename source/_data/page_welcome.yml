@@ -1,0 +1,27 @@
+intro:
+  main_title: "Welcome"
+  content_1: "I CSS sono uno degli strumenti più potenti, ed allo stesso tempo sottovalutati, del nuovo rinascimento del web. Nato come evento interno ad una track del JsDay e dallo stesso team di organizzatori dietro a Kerning, il CSSDay vuole dare una dignità alla tecnologia che rende tutti i siti più leggibili, interattivi ed anche belli da vedere."
+  content_2: "L'obiettivo dell'evento è consentire alla community di incontrarsi e condividere esperienze divertendosi e facendo rete in un contesto piacevole."
+# this is the global "read more" label
+readmore_label: "Continua a leggere" 
+# these are the title and descriptions of the 6 blocks
+info_about:
+  title: "About"
+  content: "GrUSP ed il team dietro al cssday"
+info_coc:
+  title: "COC"
+  content: "Sii gentile con tutti"
+info_scholarships:
+  title: "Scholarships"
+  content: "Come iscriversi"
+info_cfp:
+  title: "Call for papers"
+  content: "Diventa uno dei nostri speaker"
+info_venue:
+  title: "Dove"
+  content: "Informazioni utili"
+info_ticket:
+  title: "Biglietti"
+  content: "I biglietti sono disponibili su Eventbrite"
+  # the tickets link is the only one that does not use the "global" label
+  readmore_label: "GET YOURS"
