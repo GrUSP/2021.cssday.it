@@ -55,7 +55,7 @@ conference:
   # "general information" ("what is it?") component
   geninfo_visible: true
   geninfo_title: "Che cos'è?"
-  geninfo_description: "I CSS sono uno degli strumenti più potenti, ed allo stesso tempo sottovalutati, del nuovo rinascimento del web.<br>Nato come evento interno ad una track del JsDay e dallo stesso team di organizzatori dietro a Kerning, il CSSDay vuole dare una dignità alla tecnologia che rende tutti i siti più leggibili, interattivi ed anche belli da vedere.<br> La conferenza sarà svolta online.
+  geninfo_description: "I CSS sono uno degli strumenti più potenti, ed allo stesso tempo sottovalutati, del nuovo rinascimento del web.<br>Nato come evento interno ad una track del JsDay e dallo stesso team di organizzatori dietro a Kerning, il CSSDay vuole dare una dignità alla tecnologia che rende tutti i siti più leggibili, interattivi ed anche belli da vedere.<br> La conferenza sarà svolta online."
   geninfo_about_label: "About"
   geninfo_coc_label: "Codice di condotta"
   geninfo_scholarships_label: "Scholarships"
