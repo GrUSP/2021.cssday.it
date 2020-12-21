@@ -65,11 +65,11 @@ conference:
   newsletter_subtitle: "Iscrivi alla nostra newsletter"
   # fields taken from the Mail chimp default form -- set to `true` to add subscription
   newsletter_lists:
-    php: true
+    php: false
     javascript: false
-    design: false
+    design: true
     devops: false
-    frontend: false
+    frontend: true
     ruby: false
     entrepreneurship: false
     local_events: false
