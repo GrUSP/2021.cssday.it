@@ -29,7 +29,7 @@ block content
           p !{site.data.page_about.past_edition.video_caption}
           h3(role="heading" aria-level="3").is-title.is-3 !{site.data.page_about.past_edition.title}
           each item in site.data.defaults.conference.past_editions
-            - url = "https://" + item + "/" + site.data.defaults.conference.base_url
+            - url = "https://" + item + "." + site.data.defaults.conference.base_url
             a(href=url target="_blank" rel="noopener noreferrer").past-edition !{item}
     .container.container__team
       .inner
