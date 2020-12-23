@@ -18,7 +18,7 @@ block content
             strong !{site.data.defaults.conference.past_editions_pre}
           p
             each item in site.data.defaults.conference.past_editions
-              - url = "https://" + item + "/" + site.data.defaults.conference.base_url
+              - url = "https://" + item + "." + site.data.defaults.conference.base_url
               a(href=url target="_blank" rel="noopener noreferrer").past-edition !{item}
         .column
           include includes/_social.pug
