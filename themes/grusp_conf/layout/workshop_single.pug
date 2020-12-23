@@ -42,9 +42,9 @@ block content
                   .info__date 
                     - var start_date = ""
                     if(site.data.defaults.conference.is_online_only === true)
-                      - start_date = date(site.data.defaults.conference.date, config.date_format_hero_online)
+                      - start_date = date(ws.date, config.date_format_hero_online)
                     else
-                      - start_date = date(site.data.defaults.conference.date, config.date_format_hero)
+                      - start_date = date(ws.date, config.date_format_hero)
 
                     time(datetime=ws.date) !{start_date}
                 .column
@@ -154,9 +154,9 @@ block content
                   strong
                     - var start_date = ""
                     if(site.data.defaults.conference.is_online_only === true)
-                      - start_date = date(site.data.defaults.conference.date, config.date_format_hero_online)
+                      - start_date = date(ws.date, config.date_format_hero_online)
                     else
-                      - start_date = date(site.data.defaults.conference.date, config.date_format_hero)
+                      - start_date = date(ws.date, config.date_format_hero)
 
                     time(datetime=ws.date) !{start_date}
                   br
