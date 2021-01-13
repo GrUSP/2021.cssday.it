@@ -55,29 +55,3 @@ a(href="#" role="button" aria-label="back to top")
   .back-to-top(id="back_to_top").is-hidden
     .chevron
 script(type="text/javascript" src='/assets/js/back_to_top.js')
-
-//- Privacy policy (iubenda)
-script(async type="text/javascript").
-  var _iub = _iub || [];
-    _iub.csConfiguration = 
-      {
-        "siteId": !{site.data.defaults.conference.iubenda.siteId},
-        "cookiePolicyId": !{site.data.defaults.conference.iubenda.cookiePolicyId},
-        "lang": `!{site.data.defaults.conference.iubenda.lang}`,
-        "enableRemoteConsent": !{site.data.defaults.conference.iubenda.enableRemoteConsent},
-        "localConsentDomain": `!{site.data.defaults.conference.iubenda.localConsentDomain}`,
-        "rebuildIframe": !{site.data.defaults.conference.iubenda.rebuildIframe}
-      }
-    _iub.csConfiguration.callback = {
-        onConsentGiven: function(){
-            dataLayer.push({'event': 'iubenda_consent_given'});
-        }
-    };
-
-//- Google Tag Manager
-script(async type="text/javascript").
-  (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-  })(window,document,'script','dataLayer','!{site.data.defaults.conference.google.tag_manager_id}');
