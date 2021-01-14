@@ -33,5 +33,9 @@ team:
       pic_filename: "giulia.jpeg"
     member_3:
       name: "Andrea De Carolis"
-      role: "Master of Ceremonies"
+      role: "master of ceremonies"
       pic_filename: "andrea.jpg"
+    member_4:
+      name: "Giovanna Ferrari"
+      role: "sponsor management"
+      pic_filename: "giovanna.jpg"
