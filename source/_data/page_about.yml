@@ -39,3 +39,7 @@ team:
       name: "Giovanna Ferrari"
       role: "sponsor management"
       pic_filename: "giovanna.png"
+    member_5:
+      name: "Michela Bertaina"
+      role: "Community management"
+      pic_filename: "michela.png"
