@@ -30,7 +30,7 @@ team:
     member_2:
       name: "Giulia Tosato"
       role: "boss in charge"
-      pic_filename: "giulia.jpeg"
+      pic_filename: "giulia.jpg"
     member_3:
       name: "Andrea De Carolis"
       role: "master of ceremonies"
@@ -38,4 +38,4 @@ team:
     member_4:
       name: "Giovanna Ferrari"
       role: "sponsor management"
-      pic_filename: "giovanna.jpg"
+      pic_filename: "giovanna.png"
