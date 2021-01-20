@@ -941,7 +941,7 @@ a.has-text-danger:hover, a.has-text-danger:focus {
 .title-container_schedule {
   text-align: center; }
   .title-container_schedule h1 {
-    text-transform: capitalize; }
+    text-transform: none; }
     .title-container_schedule h1.has-text-left {
       margin-bottom: 1em; }
     .title-container_schedule h1.is-centered {

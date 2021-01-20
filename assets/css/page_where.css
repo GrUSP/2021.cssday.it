@@ -77,7 +77,7 @@
   .venue-container__more h3 {
     color: #000;
     font-style: normal;
-    text-transform: capitalize;
+    text-transform: none;
     font-weight: 600;
     text-align: left;
     font-size: 1.8em;
