@@ -116,12 +116,12 @@ conference:
   # if `media_video_is_youtube` is `true`, the relevant playlist will be embedded via "media_video_playlist". If it is `false`, the relevant Vimeo channel will be embedded via "media_vimeo_channel"
   media_video_is_youtube: true
   youtube_base_url: "https://www.youtube.com/embed/videoseries?list="
-  vimeo_base_url: "https://vimeo.com/channels/"
-  vimeo_url_suffix: "/embed"
+  # vimeo_base_url: "https://vimeo.com/channels/"
+  # vimeo_url_suffix: "/embed"
   #   (embed YouTube playlist: prendere l'ID della lista dall'URL, la parte dopo '&list=', e metterla qui sotto)
   youtube_playlist_id: "PLWK9j6ps_unnzawdRcS0h5O6if5f8mtCc"
   #   (embed Vimeo showcase: prendere l'ID dello showcase e metterla qui sotto)
-  vimeo_showcase_id: "italiancssday"
+  # vimeo_showcase_id: "italiancssday"
   # Location section in home page. set the first parameter to true to make it appear in home page, false means hidden
   location_visible: false
   location_name: "Hotel San Marco"
@@ -137,6 +137,7 @@ conference:
   # this is for the Community partners section in home page
   community_partners: true
   community_partners_title: "Community Partners"
+  # community_partners_text: ""
   # this is for the Social links block
   social_follow: "Seguici su"
   social_fb_url: "https://www.facebook.com/cssday"
@@ -144,6 +145,7 @@ conference:
   social_twitter_url: "https://twitter.com/cssdayit"
   social_vimeo_url: "https://vimeo.com/channels/italiancssday"
   social_youtube_url: "https://www.youtube.com/c/grusp"
+  social_instagram_url: "https://www.instagram.com/grusp_/"
   # 404
   back_to_home_label: "back to home page"
   # footer

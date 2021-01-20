@@ -24,7 +24,7 @@ block_2:
 levels:
   level_1:
     name: Main
-    amount: 10000
+    amount: 5000
     vat_label: "(+ VAT 22%)"
     available_slots: 1
     description_1:
@@ -45,26 +45,26 @@ levels:
       - "<strong>5</strong> free tickets"
     description_7:
       - "<strong>5</strong> tickets with <strong>50%</strong> discount"
-  level_2:
-    name: Diamond
-    amount: 5000
-    vat_label: "(+ VAT 22%)"
-    available_slots: 2
-    description_2:
-      - "Access to opt-in attendees list"
-    description_3:
-      - "Virtual booth (medium)"
-    description_4:
-      - "Your logo in pre-event communications"
-      - "Your logo on conference website"
-      - "Your company mentioned and the logo shown during the opening remarks"
-      - "Your logo displayed in the lower third of the video, throughout the event"
-    description_5:
-      - "Your own digital flyer and/or gadget in digital swag bag"
-    description_6:
-      - "<strong>4</strong> free tickets"
-    description_7:
-      - "<strong>5</strong> tickets with <strong>20%</strong> discount"
+  #level_2:
+    #name: Diamond
+    #amount: 5000
+    #vat_label: "(+ VAT 22%)"
+    #available_slots: 2
+    #description_2:
+    #  - "Access to opt-in attendees list"
+    #description_3:
+    #  - "Virtual booth (medium)"
+    #description_4:
+    #  - "Your logo in pre-event communications"
+    #  - "Your logo on conference website"
+    #  - "Your company mentioned and the logo shown during the opening remarks"
+    #  - "Your logo displayed in the lower third of the video, throughout the event"
+    #description_5:
+    #  - "Your own digital flyer and/or gadget in digital swag bag"
+    #description_6:
+    #  - "<strong>4</strong> free tickets"
+    #description_7:
+    #  - "<strong>5</strong> tickets with <strong>20%</strong> discount"
   level_3:
     name: Platinum
     amount: 3000

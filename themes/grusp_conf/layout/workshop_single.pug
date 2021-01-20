@@ -14,9 +14,9 @@ block content
           .inner
             h2(role="header" aria-level="2").is-title.is-2 !{ws.page_title}
             a(role="button" href=ws.ticket_url aria-label=ws.ticket_label target="_blank" rel="external noopener noreferrer").button.is-medium.is-rounded.is-primary !{ws.ticket_label}
-        if(site.data.defaults.conference.venue_img_credits)
-          .image-credits !{site.data.defaults.conference.venue_img_credits}
-
+        if(ws.workshop_img_credits)
+          .image-credits !{ws.workshop_img_credits}
+        
         include includes/_breadcrumbs.pug
 
         .workshop-single__container
@@ -158,13 +158,13 @@ block content
                     else
                       - start_date = date(ws.date, config.date_format_hero)
 
-                    time(datetime=ws.date) !{start_date}
-                  br
-                  - start_time = date(ws.date, config.time_format_schedule)
-                  - end_time = date(ws.end_date, config.time_format_schedule)
-                  time(datetime=ws.date) !{start_time}
-                  | &nbsp;-&nbsp;
-                  time(datetime=ws.end_date) !{end_time}
+                    //-time(datetime=ws.date) !{start_date}
+                  //-br
+                  //-- start_time = date(ws.date, config.time_format_schedule)
+                  //-- end_time = date(ws.end_date, config.time_format_schedule)
+                  //-time(datetime=ws.date) !{start_time}
+                  //-| &nbsp;-&nbsp;
+                  //-time(datetime=ws.end_date) !{end_time}
                   if(ws.whatandwhen_additional_info)
                     p !{ws.whatandwhen_additional_info}
                 .block
