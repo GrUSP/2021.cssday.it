@@ -43,8 +43,7 @@ sponsors_block_title: ""
 #    logo_filename: ""
 #    site_url: ""
 
-community_partners:
-  cp_1:
-    name: ""
-    website_url: ""
-    logo_filename: ""
+# Partner configuration
+partner_tags:
+  - css
+  - frontend

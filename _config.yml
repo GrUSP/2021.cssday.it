@@ -10,6 +10,8 @@ theme: "grusp_conf"
 
 # Site / OG
 type: website
+slug: cssday
+edition: 2021
 title: "cssday 2021"
 description: "cssday 2021, online conference"
 #   separate keywords by comma, no spaces
