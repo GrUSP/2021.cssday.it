@@ -8288,9 +8288,9 @@ footer {
         border: 1px solid #fff; }
         footer .columns.inner .row__social .social-icon:hover, footer .columns.inner .row__social .social-icon:active, footer .columns.inner .row__social .social-icon:focus {
           background-color: #5ab5c9; }
-          footer .columns.inner .row__social .social-icon:hover svg path, footer .columns.inner .row__social .social-icon:hover svg rect, footer .columns.inner .row__social .social-icon:hover svg ellipse, footer .columns.inner .row__social .social-icon:active svg path, footer .columns.inner .row__social .social-icon:active svg rect, footer .columns.inner .row__social .social-icon:active svg ellipse, footer .columns.inner .row__social .social-icon:focus svg path, footer .columns.inner .row__social .social-icon:focus svg rect, footer .columns.inner .row__social .social-icon:focus svg ellipse {
+          footer .columns.inner .row__social .social-icon:hover svg path, footer .columns.inner .row__social .social-icon:hover svg rect, footer .columns.inner .row__social .social-icon:hover svg ellipse, footer .columns.inner .row__social .social-icon:hover svg circle, footer .columns.inner .row__social .social-icon:active svg path, footer .columns.inner .row__social .social-icon:active svg rect, footer .columns.inner .row__social .social-icon:active svg ellipse, footer .columns.inner .row__social .social-icon:active svg circle, footer .columns.inner .row__social .social-icon:focus svg path, footer .columns.inner .row__social .social-icon:focus svg rect, footer .columns.inner .row__social .social-icon:focus svg ellipse, footer .columns.inner .row__social .social-icon:focus svg circle {
             fill: #fff; }
-      footer .columns.inner .row__social svg path, footer .columns.inner .row__social svg rect, footer .columns.inner .row__social svg ellipse {
+      footer .columns.inner .row__social svg path, footer .columns.inner .row__social svg rect, footer .columns.inner .row__social svg ellipse, footer .columns.inner .row__social svg circle {
         fill: #5ab5c9; }
     footer .columns.inner nav {
       padding: 1em;
