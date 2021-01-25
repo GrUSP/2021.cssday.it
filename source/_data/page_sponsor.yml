@@ -29,98 +29,106 @@ levels:
     available_slots: 1
     description_1:
       - "1 dedicated session (30 mins max, no commercial talks accepted)"
-      - "One direct email marketing campaign"
-    description_2:
       - "Access to opt-in attendees list"
+    description_2:
+      - "Virtual booth"
     description_3:
-      - "Main virtual booth (large)"
+      - "Your logo displayed on rotation in the lower third throughout the event"
     description_4:
+      - "Your own digital flyer and/or gadget in digital swag bag"
+    description_5:
       - "Your logo in pre-event communications"
       - "Your logo on conference website"
       - "Your company mentioned and the logo shown during the opening remarks"
-      - "Your logo displayed in the lower third of the video, throughout the event"
-    description_5:
-      - "Your own digital flyer and/or gadget in digital swag bag"
     description_6:
-      - "<strong>5</strong> free tickets"
-    description_7:
-      - "<strong>5</strong> tickets with <strong>50%</strong> discount"
-  #level_2:
-    #name: Diamond
-    #amount: 5000
-    #vat_label: "(+ VAT 22%)"
-    #available_slots: 2
-    #description_2:
-    #  - "Access to opt-in attendees list"
-    #description_3:
-    #  - "Virtual booth (medium)"
-    #description_4:
-    #  - "Your logo in pre-event communications"
-    #  - "Your logo on conference website"
-    #  - "Your company mentioned and the logo shown during the opening remarks"
-    #  - "Your logo displayed in the lower third of the video, throughout the event"
-    #description_5:
-    #  - "Your own digital flyer and/or gadget in digital swag bag"
-    #description_6:
-    #  - "<strong>4</strong> free tickets"
-    #description_7:
-    #  - "<strong>5</strong> tickets with <strong>20%</strong> discount"
+      - "<strong>10</strong> free tickets"
+#    description_7:
+#      - "<strong>5</strong> tickets with <strong>50%</strong> discount"
+  # level_2:
+  #   name: Diamond
+  #   amount: 5000
+  #   vat_label: "(+ VAT 22%)"
+  #   available_slots: 2
+  #   description_2:
+  #     - "Access to opt-in attendees list"
+  #   description_3:
+  #     - "Virtual booth (medium)"
+  #   description_4:
+  #     - "Your logo in pre-event communications"
+  #     - "Your logo on conference website"
+  #     - "Your company mentioned and the logo shown during the opening remarks"
+  #     - "Your logo displayed in the lower third of the video, throughout the event"
+  #   description_5:
+  #     - "Your own digital flyer and/or gadget in digital swag bag"
+  #   description_6:
+  #     - "<strong>4</strong> free tickets"
+  #   description_7:
+  #     - "<strong>5</strong> tickets with <strong>20%</strong> discount"
   level_3:
     name: Platinum
     amount: 3000
     vat_label: "(+ VAT 22%)"
     available_slots: 4
+    description_2:
+      - "Virtual booth"
     description_3:
-      - "Virtual booth (small)"
+      - "Your logo displayed on rotation in the lower third throughout the event"
     description_4:
+      - "Your own digital flyer and/or gadget in digital swag bag"
+    description_5:
       - "Your logo in pre-event communications"
       - "Your logo on conference website"
       - "Your company mentioned and the logo shown during the opening remarks"
-      - "Your logo displayed in the lower third of the video, throughout the event"
-    description_5:
-      - "Your own digital flyer and/or gadget in digital swag bag"
     description_6:
-      - "<strong>3</strong> free tickets"
-    description_7:
-      - "<strong>5</strong> tickets with <strong>15%</strong> discount"
+      - "<strong>6</strong> free tickets"
   level_4:
     name: Gold
     amount: 1500
     vat_label: "(+ VAT 22%)"
     available_slots: 8
+    description_3:
+      - "Your logo displayed on rotation in the lower third throughout the event"
     description_4:
+      - "Your own digital flyer and/or gadget in digital swag bag"
+    description_5:
       - "Your logo in pre-event communications"
       - "Your logo on conference website"
       - "Your company mentioned and the logo shown during the opening remarks"
-      - "Your logo displayed in the lower third of the video, throughout the event"
-    description_5:
-      - "Your own digital flyer and/or gadget in digital swag bag"
     description_6:
-      - "<strong>2</strong> free tickets"
-    description_7:
-      - "<strong>3</strong> tickets with <strong>15%</strong> discount"
+      - "<strong>4</strong> free tickets"
   level_5:
     name: Silver
     amount: 750
     vat_label: "(+ VAT 22%)"
     available_slots: 16
     description_4:
+      - "Your own digital flyer and/or gadget in digital swag bag"
+    description_5:
       - "Your logo in pre-event communications"
       - "Your logo on conference website"
       - "Your company mentioned and the logo shown during the opening remarks"
-    description_5:
-      - "Your own digital flyer and/or gadget in digital swag bag"
     description_6:
-      - "<strong>1</strong> free ticket"
-    description_7:
-      - "<strong>3</strong> tickets with <strong>10%</strong> discount"
+      - "<strong>2</strong> free tickets"
   level_6:
     name: Bronze
     amount: 500
     vat_label: "(+ VAT 22%)"
     available_slots: 32
-    description_4:
+    description_5:
       - "Your logo in pre-event communications"
       - "Your logo on conference website"
-    description_7:
-      - "<strong>2</strong> tickets with <strong>10%</strong> discount"
+      - "Your company mentioned and the logo shown during the opening remarks"
+    description_6:
+      - "<strong>1</strong> free ticket"
+  level_7:
+    name: Diversity
+    amount: 500
+    vat_label: "(+ VAT 22%)"
+    available_slots: 32
+    description_5:
+      - "Your logo in pre-event communications"
+      - "Your logo on conference website"
+
+      - "Your company mentioned and the logo shown during the opening remarks"
+    description_6:
+      - "<strong>1</strong> free ticket"

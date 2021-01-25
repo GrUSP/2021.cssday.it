@@ -2,14 +2,14 @@ header:
   title_pre: "...and a lovely "
 intro:
   main_title: "Where"
-  content_1: "The venue is The Internet."
+  content_1: "The event is happening online, on a virtual venue that will allow all participants to interact live, through messages and also video-calls. <br /> The tickets are sold on Eventbrite, and you'll receive the link to access the virtual venue a couple of days before the event."
   content_2: ""
 city_info:
-  title: "The city"
-  subtitle_1: "Subtitle 1"
-  description_1: "Verona is qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem."
-  subtitle_2: "Subtitle 2"
-  description_2: "And anyways, nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
+  title: "How it works"
+  subtitle_1: "Participate live"
+  description_1: "You can participate live and interact with speakers and attendees. The event is happening on Hopin, a very easy-to-use web platform on which we already have held all our 2020 events."
+  subtitle_2: "Access the recorded videos"
+  description_2: "If you have a ticket, right after the event you'll have access to all of the recorded contents."
 map:
   title: "Location"
   map_url: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2799.4793358997117!2d10.969744115556647!3d45.43999607910055!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4781e1e30a8be6af%3A0x8091b108e1d130c6!2sHotel%20San%20Marco%20Fitness%20Pool%20%26%20SPA!5e0!3m2!1sen!2sit!4v1587388989438!5m2!1sen!2sit"
