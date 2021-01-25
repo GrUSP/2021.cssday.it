@@ -4899,11 +4899,11 @@ header {
   border-radius: 20px;
   margin: 0 8px;
   border: 1px solid #5ab5c9; }
-  .social-icon svg path, .social-icon svg rect, .social-icon svg ellipse {
+  .social-icon svg path, .social-icon svg rect, .social-icon svg ellipse, .social-icon svg circle {
     fill: #fff; }
   .social-icon:hover, .social-icon:active, .social-icon:focus {
     background-color: #fff; }
-    .social-icon:hover svg path, .social-icon:hover svg rect, .social-icon:hover svg ellipse, .social-icon:active svg path, .social-icon:active svg rect, .social-icon:active svg ellipse, .social-icon:focus svg path, .social-icon:focus svg rect, .social-icon:focus svg ellipse {
+    .social-icon:hover svg path, .social-icon:hover svg rect, .social-icon:hover svg ellipse, .social-icon:hover svg circle, .social-icon:active svg path, .social-icon:active svg rect, .social-icon:active svg ellipse, .social-icon:active svg circle, .social-icon:focus svg path, .social-icon:focus svg rect, .social-icon:focus svg ellipse, .social-icon:focus svg circle {
       fill: #5ab5c9; }
 
 .geninfo-buttons {
