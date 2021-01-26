@@ -4,11 +4,6 @@ sponsors_block_title: ""
 #    name: ""
 #    logo_filename: ""
 #    site_url: ""
-# diamond:
-#  sponsor1:
-#    name: ""
-#    logo_filename: ""
-#    site_url: ""
 #platinum:
 #  sponsor1:
 #    name: ""
@@ -34,6 +29,11 @@ sponsors_block_title: ""
 #    logo_filename: ""
 #    site_url: ""
 #  sponsor3:
+#    name: ""
+#    logo_filename: ""
+#    site_url: ""
+# diversity:
+#  sponsor1:
 #    name: ""
 #    logo_filename: ""
 #    site_url: ""
