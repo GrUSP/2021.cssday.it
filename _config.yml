@@ -25,7 +25,7 @@ open_graph:
   # si può sostituire con il logo della conferenza (`img/conference-logo.png`)
   image: 'img/grusp-logo-full.png'
 twitter:
-  twitter_id: cssdayIT
+  twitter_id: cssday_it
 fb:
   fb_id: cssday
 
