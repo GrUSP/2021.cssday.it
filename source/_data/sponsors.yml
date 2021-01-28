@@ -9,11 +9,11 @@ sponsors_block_title: ""
 #    name: ""
 #    logo_filename: ""
 #    site_url: ""
-#gold:
-#  sponsor1:
-#    name: ""
-#    logo_filename: ""
-#    site_url: ""
+gold:
+  sponsor1:
+    name: "Modo"
+    logo_filename: "modo.svg"
+    site_url: "https://modo.md"
 #silver:
 #  sponsor1:
 #    name: ""
