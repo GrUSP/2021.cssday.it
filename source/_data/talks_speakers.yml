@@ -40,8 +40,8 @@ speaker_5: &lauramorabito
   speaker_in_speaker_lists: true
   speaker_name: Laura Morabito
   speaker_pic_filename: laura-morabito.jpg
-  speaker_role: UX Designer @ Spindox - Co-organizer @ Ladies that UX Milan
-  speaker_bio: "Ho 28 anni, lavoro come UX Designer, vivo a Milano e qualche volta me ne lamento. Mi sono appassiona al coding durante gli anni dell'università, tradisco Dostoevskij e Tolstoj per seguire un corso annuale di web design. Dopo un anno di lavoro in una piccola agenzia fra html, css e javascript, progettando interfacce e architetture dei contenuti, decido di volerne sapere di più dei bisogni e dei comportamenti degli utenti e di aggiornare la mia formazione. Mi trasferisco da Bologna a Milano, seguo un master in UX Design e inizio a lavorare in Spindox. Di giorno designer, di notte sono Co-Organizer di Ladies That UX Milan, il primo capitolo italiano di Ladies that UX, una comunità globale, amichevole, calda, comprensiva e inclusiva di donne incredibili e creative che lavorano con l'UX."
+  speaker_role: UX Designer @ Spindox - Chapter Lead @ Ladies that UX Milan
+  speaker_bio: "Di giorno UX designer e consulente, di notte sono Chapter Lead di Ladies That UX Milan, il primo capitolo italiano di Ladies that UX! Ho un passato da studentessa di letteratura russa e uno da web designer. Vivo a Milano, ma mi piace il mare."
   speaker_github_url: ""
   speaker_twitter_url: "https://twitter.com/Lemmemente"
 speaker_6: &lorenzospinelli
