@@ -8,7 +8,7 @@ speaker_9: &giuseppecaruso
   speaker_in_speaker_lists: true
   speaker_name: Giuseppe Caruso
   speaker_pic_filename: giuseppe-caruso.jpg
-  speaker_role: Front-end developer and mentor at trivago
+  speaker_role: Front-end developer and mentor @ trivago
   speaker_bio: "Father, developer, designer, photographer."
   speaker_github_url: ""
   speaker_twitter_url: "https://twitter.com/bonsaistudio"
@@ -54,7 +54,7 @@ speaker_7: &emanueladamiani
   speaker_in_speaker_lists: true
   speaker_name: Emanuela Damiani
   speaker_pic_filename: emanuela-damiani.jpg
-  speaker_role: Staff User Experience Designer per Mozilla, Firefox
+  speaker_role: Staff User Experience Designer @ Mozilla, Firefox
   speaker_bio: "Internet è il mio mestiere."
   speaker_github_url: ""
   speaker_twitter_url: "https://twitter.com/brassy"
