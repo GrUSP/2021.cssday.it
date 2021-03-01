@@ -82,6 +82,14 @@ speaker_10: &emanuelecentola
   speaker_bio: "Sono un grafico post-maniera di Bologna. Da vent’anni progetto identità visive originali (tipo loghi, immagini coordinate ecc) e amo questo cosiddetto webbe. Sono quello che di solito ti manda il file di Sketch."
   speaker_github_url: ""
   speaker_twitter_url: "https://twitter.com/Emmaboshi"
+speaker_11: &andreagadaldi
+  speaker_in_speaker_lists: true
+  speaker_name: Andrea Gadaldi
+  speaker_pic_filename: andrea-gadaldi.png
+  speaker_role: UX/UI designer @ CodicePlastico
+  speaker_bio: "Mi piace disegnare e progettare: che si tratti di usabilità, interfacce, front-end o illustrazioni, l'importante è divertirsi."
+  speaker_github_url: ""
+  speaker_twitter_url: "https://twitter.com/mrbeastcorp"
 
 tracks:
   track_1: &track_1
@@ -113,14 +121,14 @@ days:
         start_datetime: 2021-03-11T09:15+01:00
         end_datetime: 2020-03-11T09:30+01:00
         talk_title: "Welcome!"
-      talk_2:
+      talk_4:
         item_type: "service"
         track: *track_1
         start_datetime: 2021-03-11T11:15+01:00
         end_datetime: 2021-03-11T11:45+01:00
         talk_title: "Pausa Caffè"
         service_icon: "coffee"
-      talk_3:
+      talk_12:
         item_type: "talk"
         track: *track_1
         start_datetime: 2021-03-11T17:15+01:00
@@ -132,7 +140,7 @@ days:
           Non esiste giusto o sbagliato. Esiste solo il right fit. Preparatevi a sudare perché nella sua sessione, Emanuela Damiani condividerà la sua esperienza diretta sul perché non esiste una formula magica per essere fit, ma capendo il contesto ed il livello di fit-ness in cui ci troviamo possiamo avere il maggior impatto possibile sui progetti a cui collaboriamo."
         speakers:
           speaker_1: *emanueladamiani
-      talk_4:
+      talk_2:
         item_type: "talk"
         track: *track_1
         start_datetime: 2021-03-11T09:30+01:00
@@ -142,7 +150,7 @@ days:
       # talk_video_url: ""
         speakers:
           speaker_1: *giuseppecaruso
-      talk_5:
+      talk_11:
         item_type: "talk"
         track: *track_1
         start_datetime: 2021-03-11T16:30+01:00
@@ -152,14 +160,14 @@ days:
       # talk_video_url: ""
         speakers:
           speaker_1: *matteoguidotto
-      talk_6:
+      talk_10:
         item_type: "service"
         track: *track_1
         start_datetime: 2021-03-11T16:00+01:00
         end_datetime: 2020-09-16T16:30+01:00
         talk_title: "Pausa Caffè"
         service_icon: "coffee"
-      talk_7:
+      talk_3:
         item_type: "talk"
         track: *track_1
         start_datetime: 2021-03-11T10:15+01:00
@@ -169,7 +177,7 @@ days:
       # talk_video_url: ""
         speakers:
           speaker_1: *francescoimprota
-      talk_8:
+      talk_5:
         item_type: "talk"
         track: *track_1
         start_datetime: 2021-03-11T11:45+01:00
@@ -178,7 +186,7 @@ days:
         talk_description: "In un mondo di connessioni veloci con utenti sempre più esigenti, Google ci fornisce gli strumenti per capire come 'tenere in forma' le nostre pagine web. Tra KPIS e ottimizzazioni, uno sguardo a come le performance sono core nello sviluppo dei nostri canali digitali."
         speakers:
           speaker_1: *matteolullo
-      talk_9:
+      talk_8:
         item_type: "talk"
         track: *track_1
         start_datetime: 2021-03-11T14:15+01:00
@@ -191,7 +199,7 @@ In questo talk esploriamo euristiche e golden rules dello UI design a partire da
 Impariamo così a conoscere e applicare le scelte di design che hanno condizionato positivamente le nostre esperienze utente."
         speakers:
           speaker_1: *lauramorabito
-      talk_10:
+      talk_9:
         item_type: "talk"
         track: *track_1
         start_datetime: 2021-03-11T15:15+01:00
@@ -203,20 +211,20 @@ Non so se si è capito, ma in questo talk parleremo di come affrontare l'incompa
 Vi faccio un esempio: se il designer vuole i pulsanti stondati ma il framework ce li ha quadrati, cosa si deve fare? Come si risolve? Chi ha ragione? Dobbiamo cambiare la grafica o modificare il framework? Dobbiamo cambiare framework? Dobbiamo cambiare designer? o sviluppatori? I framework UI sono necessari?"
         speakers:
           speaker_1: *lorenzospinelli
-      talk_11:
+      talk_13:
         item_type: "service"
         track: *track_1
         start_datetime: 2021-03-11T18:15+01:00
         end_datetime: 2021-03-11T18:30+01:00
         talk_title: "Ciao dal GrUSP"
-      talk_12:
+      talk_7:
         item_type: "service"
         track: *track_1
         start_datetime: 2021-03-11T13:00+01:00
         end_datetime: 2021-03-11T14:15+01:00
         talk_title: "Pausa Pranzo"
         service_icon: "cutlery"
-      talk_13:
+      talk_6:
         item_type: "talk"
         track: *track_1
         start_datetime: 2021-03-11T12:30+01:00
@@ -227,6 +235,8 @@ Vi faccio un esempio: se il designer vuole i pulsanti stondati ma il framework c
           speaker_1: *giulialaco
           speaker_2: *andreadecarolis
           speaker_3: *emanuelecentola
+          speaker_4: *andreagadaldi
+
 
   # day_2:
   #   date: 2020-09-17T09:00
