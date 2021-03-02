@@ -119,7 +119,7 @@ days:
         item_type: "service"
         track: *track_1
         start_datetime: 2021-03-11T09:15+01:00
-        end_datetime: 2020-03-11T09:30+01:00
+        end_datetime: 2021-03-11T09:30+01:00
         talk_title: "Welcome!"
       talk_4:
         item_type: "service"
@@ -164,7 +164,7 @@ days:
         item_type: "service"
         track: *track_1
         start_datetime: 2021-03-11T16:00+01:00
-        end_datetime: 2020-09-16T16:30+01:00
+        end_datetime: 2021-03-11T16:30+01:00
         talk_title: "Pausa Caffè"
         service_icon: "coffee"
       talk_3:
