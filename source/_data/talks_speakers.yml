@@ -230,7 +230,7 @@ Vi faccio un esempio: se il designer vuole i pulsanti stondati ma il framework c
         start_datetime: 2021-03-11T12:30+01:00
         end_datetime: 2021-03-11T13:00+01:00
         talk_title: "E i font, come li scegli? Conversazioni semiserie tra developer e designer"
-        talk_description: "Parliamo di tipografia web e font variabili"
+        talk_description: "Parliamo di come designer e developer si relazionano e coordinano, in particolare quando si tratta di scelte tipografiche: chi, come e quando sceglie i font per un progetto web?"
         speakers:
           speaker_1: *giulialaco
           speaker_2: *andreadecarolis

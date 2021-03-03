@@ -36,6 +36,10 @@ bronze:
     name: "stickermule"
     logo_filename: "stickermule.svg"
     site_url: "https://mule.to/p1j5"
+  sponsor4:
+    name: "trivago"
+    logo_filename: "trivago.svg"
+    site_url: "https://company.trivago.com/"
 # diversity:
 #  sponsor1:
 #    name: ""
