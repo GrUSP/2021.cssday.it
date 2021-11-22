@@ -91,6 +91,19 @@ speaker_11: &andreagadaldi
   speaker_github_url: ""
   speaker_twitter_url: "https://twitter.com/mrbeastcorp"
 
+speakers:
+  speaker_9: *giuseppecaruso
+  speaker_2: *matteoguidotto
+  speaker_3: *francescoimprota
+  speaker_4: *matteolullo
+  speaker_5: *lauramorabito
+  speaker_6: *lorenzospinelli
+  speaker_7: *emanueladamiani
+  speaker_8: *giulialaco
+  speaker_1: *andreadecarolis
+  speaker_10: *emanuelecentola
+  speaker_11: *andreagadaldi
+
 tracks:
   track_1: &track_1
     id: 1
